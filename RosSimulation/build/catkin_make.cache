@@ -1,0 +1,2 @@
+mpriority
+-DCATKIN_DEVEL_PREFIX=/home/ghoston/RosProject/devel -DCMAKE_INSTALL_PREFIX=/home/ghoston/RosProject/install -G Unix Makefiles

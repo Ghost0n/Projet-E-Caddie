@@ -1,0 +1,9 @@
+<launch>
+
+
+  <node name="caisses" pkg="mpriority" type="caisses.py" output="screen"/>
+  <node name="caddie" pkg="mpriority" type="caddie.py" output="screen"/>
+  <node name="pm" pkg="mpriority" type="pm.py" output="screen"/>
+  
+
+</launch>
